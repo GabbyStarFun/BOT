@@ -896,4 +896,4 @@ if (message.content.startsWith("!openbookings")) {
 }
 });
 
-client.login(token);
+client.login(${{ TOKEN }});
